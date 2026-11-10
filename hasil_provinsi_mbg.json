@@ -1,0 +1,192 @@
+{
+    "Aceh": {
+        "positif": 7,
+        "negatif": 2,
+        "netral": 0
+    },
+    "Sumatera Utara": {
+        "positif": 6,
+        "negatif": 1,
+        "netral": 3
+    },
+    "Sumatera Barat": {
+        "positif": 3,
+        "negatif": 0,
+        "netral": 0
+    },
+    "Riau": {
+        "positif": 16,
+        "negatif": 2,
+        "netral": 4
+    },
+    "Kepulauan Riau": {
+        "positif": 0,
+        "negatif": 0,
+        "netral": 0
+    },
+    "Jambi": {
+        "positif": 6,
+        "negatif": 0,
+        "netral": 1
+    },
+    "Bengkulu": {
+        "positif": 6,
+        "negatif": 2,
+        "netral": 3
+    },
+    "Sumatera Selatan": {
+        "positif": 8,
+        "negatif": 1,
+        "netral": 2
+    },
+    "Kepulauan Bangka Belitung": {
+        "positif": 1,
+        "negatif": 1,
+        "netral": 1
+    },
+    "Lampung": {
+        "positif": 7,
+        "negatif": 3,
+        "netral": 0
+    },
+    "DKI Jakarta": {
+        "positif": 21,
+        "negatif": 6,
+        "netral": 2
+    },
+    "Jawa Barat": {
+        "positif": 4,
+        "negatif": 0,
+        "netral": 5
+    },
+    "Banten": {
+        "positif": 11,
+        "negatif": 0,
+        "netral": 0
+    },
+    "Jawa Tengah": {
+        "positif": 9,
+        "negatif": 0,
+        "netral": 1
+    },
+    "DI Yogyakarta": {
+        "positif": 8,
+        "negatif": 0,
+        "netral": 1
+    },
+    "Jawa Timur": {
+        "positif": 7,
+        "negatif": 0,
+        "netral": 2
+    },
+    "Bali": {
+        "positif": 6,
+        "negatif": 1,
+        "netral": 3
+    },
+    "Nusa Tenggara Barat": {
+        "positif": 6,
+        "negatif": 0,
+        "netral": 1
+    },
+    "Nusa Tenggara Timur": {
+        "positif": 11,
+        "negatif": 2,
+        "netral": 2
+    },
+    "Kalimantan Barat": {
+        "positif": 9,
+        "negatif": 1,
+        "netral": 2
+    },
+    "Kalimantan Tengah": {
+        "positif": 3,
+        "negatif": 1,
+        "netral": 2
+    },
+    "Kalimantan Selatan": {
+        "positif": 5,
+        "negatif": 0,
+        "netral": 1
+    },
+    "Kalimantan Timur": {
+        "positif": 3,
+        "negatif": 0,
+        "netral": 3
+    },
+    "Kalimantan Utara": {
+        "positif": 6,
+        "negatif": 0,
+        "netral": 0
+    },
+    "Sulawesi Utara": {
+        "positif": 4,
+        "negatif": 1,
+        "netral": 0
+    },
+    "Sulawesi Tengah": {
+        "positif": 5,
+        "negatif": 1,
+        "netral": 5
+    },
+    "Sulawesi Selatan": {
+        "positif": 11,
+        "negatif": 1,
+        "netral": 3
+    },
+    "Sulawesi Tenggara": {
+        "positif": 1,
+        "negatif": 2,
+        "netral": 4
+    },
+    "Sulawesi Barat": {
+        "positif": 9,
+        "negatif": 3,
+        "netral": 3
+    },
+    "Gorontalo": {
+        "positif": 5,
+        "negatif": 0,
+        "netral": 3
+    },
+    "Maluku": {
+        "positif": 6,
+        "negatif": 0,
+        "netral": 6
+    },
+    "Maluku Utara": {
+        "positif": 0,
+        "negatif": 0,
+        "netral": 0
+    },
+    "Papua Barat": {
+        "positif": 10,
+        "negatif": 4,
+        "netral": 5
+    },
+    "Papua Barat Daya": {
+        "positif": 0,
+        "negatif": 0,
+        "netral": 0
+    },
+    "Papua": {
+        "positif": 18,
+        "negatif": 1,
+        "netral": 13
+    },
+    "Papua Tengah": {
+        "positif": 0,
+        "negatif": 0,
+        "netral": 0
+    },
+    "Papua Pegunungan": {
+        "positif": 0,
+        "negatif": 0,
+        "netral": 0
+    },
+    "Papua Selatan": {
+        "positif": 0,
+        "negatif": 0,
+        "netral": 0
+    }
+}
